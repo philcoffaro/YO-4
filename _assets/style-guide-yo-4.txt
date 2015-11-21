@@ -1,0 +1,38 @@
+/* --- YO.com 4.0 Color Palette --- */
+
+
+#29aae1
+blue (light)
+http://www.color-hex.com/color/29aae1
+main color, header
+
+#273249
+blue (dark)
+http://www.color-hex.com/color/273249
+navigation, footer
+
+#e5554e
+red (lighter) | option #1
+http://www.color-hex.com/color/e5554e
+links
+
+#d94949
+red (darker) | option #2
+http://www.color-hex.com/color/d94949
+links
+
+#d43a3a
+red (darkest) | option #3
+http://www.color-hex.com/color/d43a3a
+links
+
+#e1bc29
+gold (sun color)
+http://www.color-hex.com/color/e1bc29
+
+#e09b0f
+gold (darker sun color)
+http://www.color-hex.com/color/e09b0f
+
+
+/*----------------------------- */
